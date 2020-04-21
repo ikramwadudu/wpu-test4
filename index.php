@@ -7,5 +7,10 @@
 <body>
     <h1>Hello World</h1>
     <p>Namaku Ikram Wadudu</p>
+
+    <ul>
+        <li>Ikram Wadudu</li>
+        <li>Sandika Galih</li>
+    </ul>
 </body>
 </html>
